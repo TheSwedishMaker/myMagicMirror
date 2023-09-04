@@ -3,7 +3,7 @@ A sumarize of the modules used in my MagicMirror
 
 Current list of modules used
 
-MMM-GoogleAssistant - https://github.com/bugsounet/MMM-GoogleAssistant
+- MMM-GoogleAssistant - https://github.com/bugsounet/MMM-GoogleAssistant
   - EXT-Alert - https://github.com/bugsounet/EXT-Alert
   - EXT-Background - https://github.com/bugsounet/EXT-Background
   - EXT-Detector - https://github.com/bugsounet/EXT-Detector 

@@ -13,14 +13,14 @@ MMM-GoogleAssistant - https://github.com/bugsounet/MMM-GoogleAssistant
   - EXT-YouTubeCast - https://github.com/bugsounet/EXT-YouTubeCast
 
 
-MMM-Calulator - https://github.com/TheSwedishMaker/MMM-Calculator
-MMM-DrawingBoard - https://github.com/TheSwedishMaker/MMM-DrawingBoard
-MMM-ModuleController - https://github.com/TheSwedishMaker/MMM-ModuleController
-MMM-mistakeCounter - https://github.com/TheSwedishMaker/MMM-mistakeCounter 
-MMM-StaticLogo - https://github.com/TheSwedishMaker/MMM-StaticLogo
+- MMM-Calulator - https://github.com/TheSwedishMaker/MMM-Calculator
+- MMM-DrawingBoard - https://github.com/TheSwedishMaker/MMM-DrawingBoard
+- MMM-ModuleController - https://github.com/TheSwedishMaker/MMM-ModuleController
+- MMM-mistakeCounter - https://github.com/TheSwedishMaker/MMM-mistakeCounter 
+- MMM-StaticLogo - https://github.com/TheSwedishMaker/MMM-StaticLogo
 
-MMM-Wallpaper - https://github.com/kolbyjack/MMM-Wallpaper
-MMM-YoutubeChannelStats - https://github.com/ianperrin/MMM-YouTubeChannelStats
+- MMM-Wallpaper - https://github.com/kolbyjack/MMM-Wallpaper
+- MMM-YoutubeChannelStats - https://github.com/ianperrin/MMM-YouTubeChannelStats
 
 
 
